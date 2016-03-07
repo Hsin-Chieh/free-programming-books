@@ -1,5 +1,5 @@
-###免費程式學習資源
-#fork from https://github.com/vhf/free-programming-books
+#免費程式學習資源  繁體中文版
+###fork from https://github.com/vhf/free-programming-books
 ## 目录
 
 * [語言無關](# 語言無關)
